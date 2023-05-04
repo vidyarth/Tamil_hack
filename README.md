@@ -39,12 +39,13 @@ Instead of waiting in long queues with the help of one scan, the buyer can see a
 
 # Sorting - demonstration
 <div style="display:flex; flex-wrap:wrap;">
-<img width="744" alt="Screenshot 2023-05-04 at 9 16 26 PM" src="https://user-images.githubusercontent.com/73633472/236259921-66e213c4-ed47-46ca-a577-8b944336607d.png">
-<img width="769" alt="Screenshot 2023-05-04 at 9 16 35 PM" src="https://user-images.githubusercontent.com/73633472/236259955-924244ab-2285-4346-a9de-051aef323882.png">
-<img width="752" alt="Screenshot 2023-05-04 at 9 16 44 PM" src="https://user-images.githubusercontent.com/73633472/236259986-29759418-4406-4740-955b-3dd4ef128113.png">
-<img width="738" alt="Screenshot 2023-05-04 at 9 16 54 PM" src="https://user-images.githubusercontent.com/73633472/236260022-dc5af575-24be-4f22-83a2-0699f71b6710.png">
-<img width="761" alt="Screenshot 2023-05-04 at 9 17 09 PM" src="https://user-images.githubusercontent.com/73633472/236260095-ae638a82-1df8-461e-9dca-daee0955f53e.png">
- </div>
+  <img width="400" alt="Screenshot 2023-05-04 at 9 16 26 PM" src="https://user-images.githubusercontent.com/73633472/236259921-66e213c4-ed47-46ca-a577-8b944336607d.png">
+  <img width="400" alt="Screenshot 2023-05-04 at 9 16 35 PM" src="https://user-images.githubusercontent.com/73633472/236259955-924244ab-2285-4346-a9de-051aef323882.png">
+  <img width="400" alt="Screenshot 2023-05-04 at 9 16 44 PM" src="https://user-images.githubusercontent.com/73633472/236259986-29759418-4406-4740-955b-3dd4ef128113.png">
+  <img width="400" alt="Screenshot 2023-05-04 at 9 16 54 PM" src="https://user-images.githubusercontent.com/73633472/236260022-dc5af575-24be-4f22-83a2-0699f71b6710.png">
+  <img width="400" alt="Screenshot 2023-05-04 at 9 17 09 PM" src="https://user-images.githubusercontent.com/73633472/236260095-ae638a82-1df8-461e-9dca-daee0955f53e.png">
+</div>
+
 
 # Searching - demonstation
 <img width="754" alt="Screenshot 2023-05-04 at 9 18 50 PM" src="https://user-images.githubusercontent.com/73633472/236260760-ec11a064-a420-4563-b6ff-9eb46889e4b5.png">

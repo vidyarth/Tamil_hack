@@ -45,8 +45,41 @@ Instead of waiting in long queues with the help of one scan, the buyer can see a
 <img width="754" alt="Screenshot 2023-05-04 at 9 18 50 PM" src="https://user-images.githubusercontent.com/73633472/236260760-ec11a064-a420-4563-b6ff-9eb46889e4b5.png">
 
 # Website screenshots:
-WhatsApp Image 2023-04-25 at 20.47.58.jpeg![image](https://user-images.githubusercontent.com/73633472/236289294-6d45f8a4-dd31-458f-9f23-3a83f5f076c3.png)
-WhatsApp Image 2023-04-25 at 20.48.21.jpeg![image](https://user-images.githubusercontent.com/73633472/236289319-4187339e-d730-4678-ae21-0532217de868.png)
-
-
+<!-- ![WhatsApp Image 2023-04-25 at 20 47 58](https://user-images.githubusercontent.com/73633472/236289993-94257c07-3d92-45d5-9fdf-3f03cb31d0f0.jpeg)
+![WhatsApp Image 2023-04-25 at 20 48 21](https://user-images.githubusercontent.com/73633472/236290004-b309bc04-7241-4828-b820-3440cc1b4e28.jpeg)
+![WhatsApp Image 2023-04-25 at 20 53 03](https://user-images.githubusercontent.com/73633472/236290009-f9488d32-b9e5-4111-b1ca-9db19a82d6be.jpeg)
+![WhatsApp Image 2023-04-25 at 20 53 48](https://user-images.githubusercontent.com/73633472/236290014-bf218d65-66a3-4bbb-837b-b0208644eb73.jpeg)
+![WhatsApp Image 2023-04-25 at 20 54 58](https://user-images.githubusercontent.com/73633472/236290021-4fcf8047-e3ce-499c-8cb7-1018ee7c65a4.jpeg)
+![WhatsApp Image 2023-04-25 at 20 55 22](https://user-images.githubusercontent.com/73633472/236290025-28636623-cd4e-4645-8558-c0738f06f489.jpeg)
+![WhatsApp Image 2023-04-25 at 20 56 41](https://user-images.githubusercontent.com/73633472/236290031-60fb84f8-2da6-45b0-8f08-6fc363bb323b.jpeg)
+![WhatsApp Image 2023-04-25 at 20 57 06](https://user-images.githubusercontent.com/73633472/236290034-86d77d63-cf15-44a8-be0a-d0f605dbc36f.jpeg)
+![WhatsApp Image 2023-04-25 at 20 57 21](https://user-images.githubusercontent.com/73633472/236290041-1176e85f-c6cc-48f6-b048-cb8a1150af48.jpeg)
+![WhatsApp Image 2023-04-25 at 20 57 37](https://user-images.githubusercontent.com/73633472/236290045-52b6c695-8876-4b18-acfa-6f73818ea4b3.jpeg)
+![WhatsApp Image 2023-04-25 at 20 58 15](https://user-images.githubusercontent.com/73633472/236290048-75711c39-c150-43e8-af13-09f4d699961e.jpeg)
+![WhatsApp Image 2023-04-25 at 20 58 53](https://user-images.githubusercontent.com/73633472/236290050-b0eb818a-eb28-418c-b838-bf11e3a0311b.jpeg)
+![WhatsApp Image 2023-04-25 at 20 59 25](https://user-images.githubusercontent.com/73633472/236290055-7e1d413b-b874-4738-b753-76a54c031838.jpeg)
+![WhatsApp Image 2023-04-25 at 20 59 47](https://user-images.githubusercontent.com/73633472/236290059-b56119cc-0b46-45bf-b609-65a785b56e32.jpeg)
+![WhatsApp Image 2023-04-25 at 21 00 56](https://user-images.githubusercontent.com/73633472/236290063-d7a4b3a0-2303-4955-9c21-e8802b0e4d66.jpeg)
+![WhatsApp Image 2023-04-25 at 21 01 16](https://user-images.githubusercontent.com/73633472/236290067-5630ed61-75be-4fdd-adae-594fc8b5fccb.jpeg)
+![WhatsApp Image 2023-04-25 at 21 02 30](https://user-images.githubusercontent.com/73633472/236290070-8efb84c7-98a2-4954-a176-dbb2db242158.jpeg)
+ -->
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://user-images.githubusercontent.com/73633472/236289993-94257c07-3d92-45d5-9fdf-3f03cb31d0f0.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290004-b309bc04-7241-4828-b820-3440cc1b4e28.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290009-f9488d32-b9e5-4111-b1ca-9db19a82d6be.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290014-bf218d65-66a3-4bbb-837b-b0208644eb73.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290021-4fcf8047-e3ce-499c-8cb7-1018ee7c65a4.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290025-28636623-cd4e-4645-8558-c0738f06f489.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290031-60fb84f8-2da6-45b0-8f08-6fc363bb323b.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290034-86d77d63-cf15-44a8-be0a-d0f605dbc36f.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290041-1176e85f-c6cc-48f6-b048-cb8a1150af48.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290045-52b6c695-8876-4b18-acfa-6f73818ea4b3.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290048-75711c39-c150-43e8-af13-09f4d699961e.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290050-b0eb818a-eb28-418c-b838-bf11e3a0311b.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290055-7e1d413b-b874-4738-b753-76a54c031838.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290059-b56119cc-0b46-45bf-b609-65a785b56e32.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290063-d7a4b3a0-2303-4955-9c21-e8802b0e4d66.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290067-5630ed61-75be-4fdd-adae-594fc8b5fccb.jpeg" width="200">
+  <img src="https://user-images.githubusercontent.com/73633472/236290070-8efb84c7-98a2-4954-a176-dbb2db242158.jpeg" width="200">
+</div>
 

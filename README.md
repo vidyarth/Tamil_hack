@@ -11,3 +11,16 @@ They can create a shop and add more shops at any given point in time. They can a
 
 ## Buyer:
 Instead of waiting in long queues with the help of one scan, the buyer can see all the items in the shop and can order the ones they want and then continue with their work. When the order is ready, the buyer receives a mail from the seller telling when they can collect the order. The buyer also gets to navigate the items in the shop easily with the help of special sorting techniques and filtering methods used.
+
+
+# Technology Stack
+-	HTML
+-	CSS
+-	Javascript
+-	Node JS
+-	Handlebars
+-	Tailwind CSS
+-	Figma
+-	Mongo DB
+-	AWS
+-	Passport JS

@@ -45,6 +45,8 @@ Instead of waiting in long queues with the help of one scan, the buyer can see a
 <img width="754" alt="Screenshot 2023-05-04 at 9 18 50 PM" src="https://user-images.githubusercontent.com/73633472/236260760-ec11a064-a420-4563-b6ff-9eb46889e4b5.png">
 
 # Website screenshots:
+WhatsApp Image 2023-04-25 at 20.47.58.jpeg![image](https://user-images.githubusercontent.com/73633472/236289294-6d45f8a4-dd31-458f-9f23-3a83f5f076c3.png)
+WhatsApp Image 2023-04-25 at 20.48.21.jpeg![image](https://user-images.githubusercontent.com/73633472/236289319-4187339e-d730-4678-ae21-0532217de868.png)
 
 
 
